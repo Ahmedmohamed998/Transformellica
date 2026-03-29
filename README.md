@@ -45,7 +45,7 @@ An advanced, always-on AI pipeline that ingests raw data from websites, SEO perf
 
 | Layer | Technology |
 |-------|-----------|
-| **Core AI & Logic** | Python 3.10+, Azure OpenAI (GPT-5.2-chat), Transformers, PyTorch |
+| **Core AI & Logic** | Python, Azure OpenAI (GPT-5.2-chat), Transformers, PyTorch |
 | **Agent Orchestration** | LangChain, LangGraph |
 | **Data Extraction** | Selenium, BeautifulSoup4, LXML, WebDriver Manager, AIOHTTP |
 | **Backend API** | FastAPI, Flask, Pandas |
