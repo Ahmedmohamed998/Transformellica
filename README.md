@@ -1,4 +1,4 @@
-# Transformellica AI Marketing Analytics & BI Assistant 📊
+# Transformellica AI Marketing Analytics & BI Assistant
 
 > AI-powered analytics platform for automated digital marketing intelligence, elite SEO auditing, and social media strategy — built for [Transformellica](https://app.thetransformix.com/).
 
